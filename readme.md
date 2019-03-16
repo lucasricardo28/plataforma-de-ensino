@@ -8,6 +8,7 @@ Sistema Láravel com 2 modulos
     Quinto passo: Use o comando "php artisan serve" para poder rodar o servidor
    <p>
    <p> 
-    Modulo Estudantes adiciona estidantes e pode adicionar um estudanto ao curso.
+    Modulo Estudantes adiciona estudantes e pode adicionar vincular tabém um curso.
+    Modulo Curso adiciona um novo curso.
    </p>
    
